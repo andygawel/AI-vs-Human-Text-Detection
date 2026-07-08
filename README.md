@@ -68,7 +68,7 @@ Both models achieved excellent classification performance.
 The Transformer-based approach produced more confident predictions and achieved the highest overall accuracy during evaluation, demonstrating the advantage of contextual embeddings over traditional TF-IDF representations.
 
 <p align="center">
-  <img src="images/model_comparison.png" width="800">
+  <img src="Images/model_comparison.png" width="800">
 </p>
 
 *Prediction confidence comparison for a sample text classified by both models.*
